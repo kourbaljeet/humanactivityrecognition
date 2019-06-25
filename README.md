@@ -1,0 +1,2 @@
+# humanactivityrecognition
+capstone project
